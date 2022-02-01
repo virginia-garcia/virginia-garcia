@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi [Welcome][website] 
 
-<!--
-**virginia-garcia/virginia-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://www.tecnoschool.com.ar/img/calendario/cursos-programacion.gif">][website]
 
-Here are some ideas to get you started:
+### Developer Frontend 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-hola
+<!--Links-->
+[website]:https://www.linkedin.com/in/garcia-virginia/
