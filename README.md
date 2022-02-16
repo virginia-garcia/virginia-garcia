@@ -1,6 +1,6 @@
 
 
-[<img src="https://www.tecnoschool.com.ar/img/calendario/cursos-programacion.gif">][website]
+<img src="https://www.tecnoschool.com.ar/img/calendario/cursos-programacion.gif">
 
 
 
@@ -136,6 +136,7 @@
 
 
 ***
+
 
 
 
