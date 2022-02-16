@@ -12,7 +12,7 @@
 <h4 align="center"> Me gusta codificar, diseñar, innovar y experimentar. Soy entusiasta y me encanta asumir nuevos desafíos y aprender nuevas habilidades.Estoy deseando adquirir experiencia ,colaborar y crear productos increíbles para el mundo🌎 </h4>
 <br>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
 
 
 
@@ -63,7 +63,7 @@
 ### 👉 Base de datos y alojamiento en la nube
 <p align="left">
   
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo= mysql&logoColor=blanco"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
