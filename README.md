@@ -118,12 +118,10 @@
 
 ## 🙋‍♀️ Conectemos
 <p align="center">
-  
-	<a href="mailto:gavirginia1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Sitio web"/ ></a>
+	<a href="mailto:gavirginia1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>           </a>
 	<a href="https://github.com/virginia-garcia"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/garcia-virginia/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-	
+	<a href="https://www.linkedin.com/in/garcia-virginia/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt ="LinkedIn"/></a>
 	
 	
 </p>
