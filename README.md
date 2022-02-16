@@ -27,19 +27,14 @@ She/Her
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/garingh128) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
-- [My personal portfolio](http://garimasingh.me) 
-- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
-- [Medium](https://medium.com/@garingh128)
-- [Sourcerer](https://sourcerer.io/garimasingh128)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
+I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/virginia-garcia/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>
@@ -49,7 +44,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 
 <!--
-**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
