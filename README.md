@@ -6,7 +6,7 @@
 
 <h1 align="center">Hola , mi nombre es Virginia García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de Ingeniería+en Sistemas;Frontend+Developer;DS%20|%20AI%20|%20ML%20Entusiasta;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=500&height=50"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+Sistemas;Frontend+Developer;DS%20|%20AI%20|%20ML%20Entusiasta;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center"> Me gusta codificar, diseñar, innovar y experimentar. Soy entusiasta y me encanta asumir nuevos desafíos y aprender nuevas habilidades.Estoy deseando adquirir experiencia ,colaborar y crear productos increíbles para el mundo🌎 </h4>
@@ -68,7 +68,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  
+  &emsp;
     
  </p>
   
