@@ -1,6 +1,6 @@
 
 
-<img src="https://www.tecnoschool.com.ar/img/calendario/cursos-programacion.gif">
+<img src="https://weheartit.com/entry/328678500">
 
 
 
