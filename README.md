@@ -9,7 +9,7 @@
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+Sistemas;Frontend+Developer;DS%20|%20AI%20|%20ML%20Entusiasta;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> Me gusta codificar, diseñar, innovar y experimentar. Soy entusiasta y me encanta asumir nuevos desafíos y aprender nuevas habilidades.Estoy deseando adquirir experiencia ,colaborar y crear productos increíbles para el mundo🌎 </h4>
+<h4 align="center"> Me gusta codificar, diseñar, innovar y experimentar. Soy entusiasta,me encanta asumir nuevos desafíos y aprender nuevas habilidades.Estoy deseando adquirir experiencia ,colaborar y crear productos increíbles para el mundo🌎 </h4>
 <br>
 <br>
 
